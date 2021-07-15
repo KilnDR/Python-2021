@@ -32,7 +32,7 @@ print(names) #print full list
 '''quote_test = 'We "Welcome" you'
 print(quote_test)
 '''
-fav_pizza = {
+'''fav_pizza = {
 	"Dave": "Cheese",
 	"Bob": "Anchovy",
 	"Mary": "Pepporoni",
@@ -40,6 +40,8 @@ fav_pizza = {
 }
 
 print(fav_pizza["Bob"])
-
+'''
+'''
 switch = True
 print(switch)
+'''
