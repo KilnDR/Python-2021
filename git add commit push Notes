@@ -1,0 +1,4 @@
+Notes 
+git add .
+git commit -am "add notes to commit as string"
+git push
